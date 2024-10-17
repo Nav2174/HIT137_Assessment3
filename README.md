@@ -109,7 +109,7 @@ Run the Game: After the installation is complete, you can start the game by runn
 
 
 
-    ```python game.py```
+    ```python Q2-side-scrolling.py```
 
 #How to Play
 ##Menu Navigation
